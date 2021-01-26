@@ -8,4 +8,4 @@ The whole maze looks the same but the logic I had in mind was to inteligently us
 
 There are a few hidden easter eggs in this.  Good luck in making this work as it was written way back in April-May 2003 on an AMD Athlon single core single thread with a basic VGA monitor and old skool graphics card.
 
-https://github.com/jmorel33/Blitz3D-MAZEGAME/blob/main/249122_10151453345321028_842742715_n.jpg
+![image](https://github.com/jmorel33/Blitz3D-MAZEGAME/blob/main/249122_10151453345321028_842742715_n.jpg)
